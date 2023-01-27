@@ -4,4 +4,4 @@
 aspecialuse@gmail.com
 
 ## Video description (in French)
-[a link](https://share.vidyard.com/watch/pGpnGdp9pMzyqaUZQhh8p4?)
+[link](https://share.vidyard.com/watch/pGpnGdp9pMzyqaUZQhh8p4?)
