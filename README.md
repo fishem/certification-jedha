@@ -1,3 +1,3 @@
 # certification-jedha
 
-<p> Repo create to submit Jedha projects </p>
+<p> Repo created to submit Jedha projects </p>
