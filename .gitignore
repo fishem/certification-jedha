@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# sensitive info
+Block_1/dataset_s3.ipynb
+Block_1/.config.ini
+Block_1/.ipynb_checkpoints
+Block_1/output/2023-01-23_final_dataset_booking.csv
